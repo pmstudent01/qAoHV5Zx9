@@ -1,0 +1,4 @@
+name: Local Agent Env
+values:
+  - key: baseUrl
+    value: ''
